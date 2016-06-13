@@ -1,6 +1,0 @@
-Projects:
-1. Senior project - Scraped Netflix and movie ratings sites (IMDB,Metacritic,Rotten Tomatos) and comined them into website to list movies by rating, actor, genre, or director
-2. Handwritten digit recognition Nueral Network - Recognizes handwriten data at about 95% accuracy
-3. Sudoku solver - Solves sudoko puzzles in a fast time using decision trees
-4. Java compiler - Small lexical analyzer and parser for a simple language, written in Java.
-5. 
